@@ -1,0 +1,18 @@
+{
+	"id": "4c28a668-b65a-470c-8bc8-016196b40db5",
+	"name": "ChooseFromListIntent",
+	"auto": true,
+	"webhookUsed": true,
+	"responses": [
+		{
+			"parameters": [
+				{
+					"isList": false,
+					"name": "ordinal",
+					"value": "$ordinal",
+					"dataType": "@sys.ordinal"
+				}
+			]
+		}
+	]
+}

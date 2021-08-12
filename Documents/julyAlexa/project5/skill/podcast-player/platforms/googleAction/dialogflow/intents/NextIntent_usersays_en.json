@@ -1,0 +1,146 @@
+[
+	{
+		"id": "b0dc0869-518a-4959-8c96-50fbfca82a8d",
+		"data": [
+			{
+				"text": "skip",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "a7763e15-2ece-4b1b-aa88-5ef52dc5ff1b",
+		"data": [
+			{
+				"text": "next",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "7d4638bb-2f4f-4bc5-89f6-830c36b96e6d",
+		"data": [
+			{
+				"text": "next one",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "10a2488b-5d59-4bd1-8d5b-a5cbfa757fee",
+		"data": [
+			{
+				"text": "skip please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "705b39ab-bdb0-4e98-bc58-b2d006b70e8c",
+		"data": [
+			{
+				"text": "next one please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "24ceb692-1ee2-4101-93cc-12150391b355",
+		"data": [
+			{
+				"text": "skip the episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "eee3c23f-6a30-4eef-9b5b-b1d8b15107c0",
+		"data": [
+			{
+				"text": "skip to next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "39acccbb-b84f-4cfc-9bb9-1c62958640db",
+		"data": [
+			{
+				"text": "skip to the next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "a2b053ad-6ebf-49bb-847e-5ea553e7dc8d",
+		"data": [
+			{
+				"text": "next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "60e7eeb6-d101-4b0e-bf8d-a0bf57cae79a",
+		"data": [
+			{
+				"text": "would like the next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "88e5c502-45d7-4025-a853-687c29c6b545",
+		"data": [
+			{
+				"text": "I would like the next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "722606eb-daaa-4d2f-abd7-42511fb555ea",
+		"data": [
+			{
+				"text": "I would like to listen to the next episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	}
+]

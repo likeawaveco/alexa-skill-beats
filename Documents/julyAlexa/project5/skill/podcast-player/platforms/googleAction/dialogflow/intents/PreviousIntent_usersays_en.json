@@ -1,0 +1,182 @@
+[
+	{
+		"id": "b0d163bd-3fd5-41ae-b7af-c4d8b3d87520",
+		"data": [
+			{
+				"text": "go back",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "3d954938-56d8-4ecf-b1d5-8e9d2016948c",
+		"data": [
+			{
+				"text": "skip back",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "6981f58b-11c5-4960-b6dd-02ba2958ffe6",
+		"data": [
+			{
+				"text": "back",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "d45186e5-9d03-44fe-9774-cb7e87d098c1",
+		"data": [
+			{
+				"text": "back up",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "b0269011-1b8e-4ec0-ae96-cfc4b67df9f1",
+		"data": [
+			{
+				"text": "previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "a617faff-704a-46a8-b327-927977a95c0b",
+		"data": [
+			{
+				"text": "go to the previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "8a9acdb6-867f-4d6e-a1b1-2419917e9467",
+		"data": [
+			{
+				"text": "skip back to previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "a7130d0c-190d-4874-8a1d-ddb007401d1c",
+		"data": [
+			{
+				"text": "go back to the previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "b75a74e1-b48a-4918-923e-e47dd39ae33b",
+		"data": [
+			{
+				"text": "the previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "9e6bb761-eb7f-43a4-916c-43b0c9cc815c",
+		"data": [
+			{
+				"text": "I'd like to listen to the previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "0e4354cb-ac67-42a8-b377-7a21971f5cd5",
+		"data": [
+			{
+				"text": "I would like to listen to the previous episode",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "7386e1ba-8e45-4817-b845-48e111ddc9be",
+		"data": [
+			{
+				"text": "go back please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "9066016d-58ee-42b0-9144-9ed102a106c5",
+		"data": [
+			{
+				"text": "skip back please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "e46c816b-b600-4899-bdf4-e77180ac0dbf",
+		"data": [
+			{
+				"text": "previous episode please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	},
+	{
+		"id": "dd6151c3-3994-434a-ba81-afe00796010b",
+		"data": [
+			{
+				"text": "skip back to the previous episode please",
+				"userDefined": false
+			}
+		],
+		"isTemplate": false,
+		"count": 0,
+		"lang": "en"
+	}
+]
